@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "Lucy",
+		"description": "星满天坛河泻影 月离海峤树生烟 ",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "Re Lucy",
+		"subtitle": "星满天坛河泻影 月离海峤树生烟",
+		"enter": "下滑",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "Re Lucy",
+		"signature": "C++ & Arkinghts & Genshin",
+		"avatar": {
+			"link": "assets/1.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://blog.hellowold.dynv6.net/",
+				"icon": "bokeyuan",
+				"text": "Alan博客"
+			},
+			"second": {
+				"href": "https://hexo.hellowold.dynv6.net/",
+				"icon": "xiaolian",
+				"text": "个人博客"
+			},
+			"third": {
+				"href": "https://web.hellowold.dynv6.net/",
+				"icon": "email",
+				"text": "导航网页"
+			},
+			"fourth": {
+				"href": "https://winter.hellowold.dynv6.net/",
+				"icon": "github",
+				"text": "特效主页"
+			}
+		}
+	}
+}
